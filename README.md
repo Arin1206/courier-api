@@ -207,6 +207,10 @@ vendor/bin/phpunit
 * Sort by registered_at
 * Validation test
 
+# Postman
+```bash
+https://www.postman.com/api-testing-4937/courier-backend/collection/l1ou9qn/crud-courier?action=share&creator=33479345&active-environment=33479345-cc213d6e-bfc8-4644-8823-8ab7b9924724
+```
 ---
 
 # Tech Stack
