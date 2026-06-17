@@ -9,7 +9,7 @@ REST API sederhana untuk manajemen data kurir menggunakan Laravel.
 Untuk mengambil project dari GitHub:
 
 ```bash
-git clone https://github.com/your-username/courier-api.git
+git clone https://github.com/Arin1206/courier-api.git
 ````
 
 Masuk ke folder project:
