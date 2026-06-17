@@ -134,7 +134,7 @@ Query Parameters:
 
 ---
 
-## Show courier
+## Show courier by id
 
 ```http
 GET /api/couriers/{courier}
