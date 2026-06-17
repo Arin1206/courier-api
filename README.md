@@ -86,8 +86,6 @@ Jalankan migration:
 php artisan migrate
 ```
 
-Untuk reset database:
-
 ```bash
 php artisan migrate:fresh --seed
 ```
